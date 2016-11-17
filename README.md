@@ -15,4 +15,3 @@ libraryDependencies += "io.funcqrs" % "fun-cqrs-play-json_2.11" % "0.4.8"
 ```scala
 libraryDependencies += "io.funcqrs" % "fun-cqrs-play25-json_2.11" % "0.4.8"
 ```
-
